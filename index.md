@@ -394,7 +394,7 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 The directions for installing and setting up the required software can be found 
-<a href = "https://edcarp.github.io/2022-06-07-wfd-dc-online/setup/setup.html">by following this link</a>.
+<a href = "https://edcarp.github.io/2022-03-07-dusc-dc-online/setup/setup.html">by following this link</a>.
 
 <p>
   In addition, you will need an up-to-date web browser.
